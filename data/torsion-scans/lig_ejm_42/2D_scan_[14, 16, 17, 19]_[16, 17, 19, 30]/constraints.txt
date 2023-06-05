@@ -1,0 +1,3 @@
+$scan
+dihredral 14 16 17 19 -180 180 60
+dihredral 16 17 19 30 -180 180 60
