@@ -1,2 +1,2 @@
 $scan
-dihredral 3 7 9 10 -180 180 60
+dihedral 3 7 9 10 -180 180 60

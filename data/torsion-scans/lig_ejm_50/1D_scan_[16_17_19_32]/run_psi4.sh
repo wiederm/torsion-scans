@@ -1,1 +1,1 @@
-geometric-optimize run.psi4in constraints.txt --engine psi4 --nt 4
+geometric-optimize run.psi4in constraints.txt --engine psi4 --nt 4 --coordsys dlc
