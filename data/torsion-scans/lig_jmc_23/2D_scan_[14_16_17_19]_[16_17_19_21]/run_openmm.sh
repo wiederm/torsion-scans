@@ -1,0 +1,1 @@
+geometric-optimize --engine openmm --pdb lig_jmc_23.pdb lig_jmc_23.xml constraints.txt
